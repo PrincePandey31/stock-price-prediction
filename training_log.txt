@@ -1,0 +1,5 @@
+Training Log: 2025-10-03 20:07:49.005622
+Features used: ['Close', 'Volume', 'MA5', 'MA10', 'Volatility']
+Dataset size: 2509 rows
+RMSE: 53.34
+R²: -0.64
